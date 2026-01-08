@@ -6,7 +6,7 @@ I'm **Kaleb Kassa Lafebo**, a graduate-level **Energy Engineer** and **Researche
 
 ### 🎓 Education & Background
 - **M.Sc. Energy Engineering** (In Progress) - University of Padova, Italy
-- **B.Tech Mechanical Engineering** - Indian Institute of Technology (IIT) Madras, India
+- **B.Tech Mechanical Engineering** - VIT University, India
 
 ### 🔬 Research Interests
 - **Wind Energy**: Turbine design, aerodynamics, and performance optimization
