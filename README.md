@@ -1,6 +1,6 @@
 # Hi, I'm Kaleb 👋
 
-**Kaleb Kassa Lafebo** · Mechanical / Energy engineer working on **wind & building energy systems, CFD and machine learning**, currently at the **Indian Institute of Technology Madras** (Chennai, India).
+**Kaleb Kassa Lafebo** · Mechanical / Energy engineer working on **wind & building energy systems, CFD and machine learning**, currently at the **University of Padova** (Padova, Italy).
 
 I build computational tools that connect physics-based simulation with data: CFD and thermal models on one side, surrogate models, digital twins and robotics on the other.
 
