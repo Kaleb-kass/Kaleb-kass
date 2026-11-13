@@ -10,7 +10,7 @@ I build computational tools that connect physics-based simulation with data: CFD
 
 - 🏢 **Building digital shadow**: an EnergyPlus model driven through its Python API with measured building data, calibrated against ASHRAE Guideline 14, with drift and uncertainty diagnostics on top.
 - 🌬️ **Urban wind / bluff-body CFD**: moving from internal and streamlined flows to atmospheric boundary layers, LES and rooftop/street-canyon flows in OpenFOAM, with ML surrogates for fast wind-comfort assessment.
-- 🤖 **Vision-guided autonomous robot** (IIT Madras robotics project): a simulated Pioneer P3-DX in CoppeliaSim controlled from Python, with a YOLOv5 detection pipeline (17 → 41 frames/s live), A\* planning, pure-pursuit control and a CNN-steered baseline. Four tested, documented sub-projects (~250 tests), and a paper in the making.
+- 🤖 **[Vision-guided autonomous robot](https://github.com/Kaleb-kass/Vision_Guided_Autonomous_Navigation)** (IIT Madras robotics project): a simulated Pioneer P3-DX in CoppeliaSim controlled from Python, with a YOLOv5 detection pipeline (17 → 41 frames/s live), A\* planning, pure-pursuit control and a CNN-steered baseline. Four tested, documented sub-projects (~250 tests), and a paper in the making.
 
 ---
 
